@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛰️ Networkwalks · Week 2 · B084 · Penetration Testing Report
+# 🛰️ Networkwalks Cybersecurity Internship Programme · Week 2 · B084 · Penetration Testing Report
 
 **Footprinting & Network Scanning Phases** · `W2-PM1` + `W2-PM5`
 
@@ -20,7 +20,7 @@
 
 ## What this is
 
-A 20-page penetration-testing report that documents two hands-on labs from the Networkwalks Cybersecurity Program:
+A 20-page penetration-testing report that documents two hands-on labs from the Networkwalks Cybersecurity Internship Program:
 
 | Module | Activity | Target |
 |---|---|---|
@@ -132,5 +132,13 @@ All activities were performed only on systems I own or have written permission t
 
 ## Author
 
-**Prince** · Cybersecurity trainee · [@vindicatedprince](https://github.com/vindicatedprince)
-Networkwalks Cybersecurity Program · Week 02
+**Prince Odinakachi Onyeoziri** 
+**Cybersecurity Intern B084**
+Github [@vindicatedprince](https://github.com/vindicatedprince)
+LinkedIn: [https://www.linkedin.com/in/onyeoziri-prince](https://www.linkedin.com/in/onyeoziri-prince-b4387a348/))
+
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity Internship at Networkwalks | **Week:** 02 | **Project:** FOOTPRINTING & RECONNAISSANCE ATTACKS WITH MULTIPLE KALI TOOLS | **Repository:** GitHub
