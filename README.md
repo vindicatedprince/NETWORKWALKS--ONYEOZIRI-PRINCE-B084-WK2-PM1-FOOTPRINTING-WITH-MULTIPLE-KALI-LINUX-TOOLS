@@ -4,7 +4,7 @@
 
 **Footprinting & Network Scanning Phases** · `W2-PM1` + `W2-PM5`
 
-![Program](https://img.shields.io/badge/program-Networkwalk%20Cybersecurity-0B1F3A?style=flat-square)
+![Program](https://img.shields.io/badge/program-Networkwalk%20Cybersecurity%20Internship%20-0B1F3A?style=flat-square)
 ![Week](https://img.shields.io/badge/week-02-0E9AA7?style=flat-square)
 ![Phases](https://img.shields.io/badge/phases-1%20%26%202-0B7C86?style=flat-square)
 ![Findings](https://img.shields.io/badge/findings-11%20(0%20crit%20%C2%B7%200%20high%20%C2%B7%202%20med%20%C2%B7%207%20low%20%C2%B7%202%20info)-F59E0B?style=flat-square)
