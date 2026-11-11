@@ -1,0 +1,9 @@
+ip,mac,vendor_oui,latency,locally_administered_mac,assessment
+192.168.18.1,88:9E:96:11:78:62,ZTE,0.0060s,no,Most likely gateway/router (inferred)
+192.168.18.2,20:16:B9:57:1F:75,Intel Corporate,0.050s,no,Computer with Intel network adapter
+192.168.18.3,66:31:A2:69:4F:1B,Unknown,2.8s,yes,Likely randomised private MAC (unverified)
+192.168.18.4,,,,n/a,"Host is up; no MAC or latency shown; likely the scanning PC (inferred)"
+192.168.18.5,1E:2C:91:5B:DE:89,Unknown,0.100s,yes,Likely randomised private MAC (unverified)
+192.168.18.6,FE:BA:5A:37:17:53,Unknown,2.8s,yes,Likely randomised private MAC (unverified)
+192.168.18.11,3C:1B:F8:09:93:5A,Hangzhou Hikvision Digital Technology,0.0030s,no,Camera / video-class vendor
+192.168.18.12,DC:97:58:45:5A:20,Sichuan AI-Link Technology,0.048s,no,IoT / Wi-Fi module vendor (unverified)

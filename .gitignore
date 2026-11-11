@@ -1,0 +1,9 @@
+# tool output produced by the helper scripts
+recon-output/
+lan-scans/
+
+# editor / OS noise
+.DS_Store
+Thumbs.db
+~$*.docx
+*.swp

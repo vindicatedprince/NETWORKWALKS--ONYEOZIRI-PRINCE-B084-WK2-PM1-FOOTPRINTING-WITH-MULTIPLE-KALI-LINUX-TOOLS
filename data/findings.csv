@@ -1,0 +1,12 @@
+id,title,area,severity,evidence,recommendation
+F-01,CMS and plugin versions fingerprinted,Web application,Medium,"WhatWeb: WordPress 7.1.4, WPDM 3.3.76, jQuery 3.7.1",R1 Patch and monitor WordPress
+F-02,WordPress REST API advertised,Web application,Low,curl -I: Link header points to /wp-json/,R5 Limit REST API exposure
+F-03,DNS software version disclosed,"DNS, email & hosting",Low,DNSRecon: BIND 9.16.23-RH on both name servers,R7 Ask DNS provider about DNSSEC and banners
+F-04,SPF ends in soft fail,"DNS, email & hosting",Low,TXT v=spf1 ... ~all,R4 Harden e-mail authentication
+F-05,DNSSEC not enabled,"DNS, email & hosting",Low,WHOIS unsigned; DNSRecon no answer to DNSSEC query,R7 Ask DNS provider about DNSSEC and banners
+F-06,Shared-hosting layout exposed,"DNS, email & hosting",Low,A and MX share one IP; cPanel autodiscover SRV; HostGator NS,R7 / general hardening
+F-07,Browser security headers not observed,Web application,Low,"curl -I: no HSTS, X-Content-Type-Options, X-Frame-Options or CSP",R3 Add browser security headers
+F-08,WAF vendor identifiable,Perimeter / WAF,Info,wafw00f: ModSecurity (SpiderLabs) in 2 requests,R8 Keep the WAF tuned
+F-09,Public contact e-mail exposed,Web application,Info,WhatWeb: info@networkwalks.com,R9 Reduce harvestable contact details
+F-10,Camera and IoT-class devices on a flat subnet,Local network,Medium,"Zenmap: .11 Hikvision, .12 Sichuan AI-Link",R2 Isolate cameras and IoT devices
+F-11,Hosts with unattributable randomised MACs,Local network,Low,"Zenmap: .3, .5, .6 use locally administered MACs",R6 Build a LAN asset inventory
